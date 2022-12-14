@@ -49,3 +49,9 @@ function multiply(a, b){
 ### ***Languages***
 + *Russian - native*
 + *English - elementary-intermediate*
+
+[Kolya Ryabtsev (@kolecuk)]: https://discordapp.com/users/938175937122537503/ "Discord profile"
+[Kolecuk]: https://github.com/Kolecuk "GitHub profile"
+[codewars]:https://www.codewars.com "educational platform"
+[Here is]:https://kolecuk.github.io/rsschool-cv/cv "CV project"
+[RS School]: https://rs.school/ "educational platform"
